@@ -1,0 +1,12 @@
+{
+  "name": "radiovolna-parser",
+  "version": "1.0.0",
+  "description": "radio station parser for https://radiovolna.net/",
+  "main": "index.js",
+  "author": "codobred <codobred@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "prompts": "^0.1.14"
+  }
+}
