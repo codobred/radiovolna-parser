@@ -28,4 +28,4 @@ const run = async () => {
 };
 
 // run app
-run();
+run().then(() => console.log('Bye!'));
